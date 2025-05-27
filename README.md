@@ -12,6 +12,7 @@ Apenas um iniciante querendo entrar no mundo do programação
   <img align="center" alt="next" src="https://img.shields.io/badge/next-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="nest" src="https://img.shields.io/badge/nest-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="py" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zapdesign&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
